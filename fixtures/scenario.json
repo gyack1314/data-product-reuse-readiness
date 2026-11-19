@@ -1,0 +1,55 @@
+{
+  "synthetic": true,
+  "fields": [
+    "question",
+    "dataset",
+    "variable",
+    "period",
+    "method",
+    "quality",
+    "restriction",
+    "version"
+  ],
+  "records": [
+    {
+      "question": "q-a",
+      "dataset": "ds-a",
+      "variable": "temperature",
+      "period": "p1",
+      "method": "m1",
+      "quality": "checked",
+      "restriction": "open",
+      "version": "1"
+    },
+    {
+      "question": "q-a",
+      "dataset": "ds-b",
+      "variable": "temperature",
+      "period": "p2",
+      "method": "m2",
+      "quality": "checked",
+      "restriction": "purpose-limited",
+      "version": "3"
+    },
+    {
+      "question": "q-b",
+      "dataset": "ds-c",
+      "variable": "pressure",
+      "period": "p1",
+      "method": "m3",
+      "quality": "pending",
+      "restriction": "open",
+      "version": "1"
+    },
+    {
+      "question": "q-c",
+      "dataset": "ds-a",
+      "variable": "humidity",
+      "period": "p3",
+      "method": "m1",
+      "quality": "checked",
+      "restriction": "open",
+      "version": "2"
+    }
+  ]
+}
